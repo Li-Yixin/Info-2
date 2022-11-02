@@ -15,7 +15,7 @@ if b > a:
 a = 33
 b = 200
 if b > a:
-print("b is greater than a")
+  print("b is greater than a")
 
 #Elif The elif keyword is pythons way of saying "if the previous conditions were not true, then try this condition".
 a = 33
@@ -32,7 +32,7 @@ if b > a:
   print("b is greater than a")
 else:
   print("b is not greater than a")
-Es 2
+#Es 2
 a = 200
 b = 33
 if b > a:
